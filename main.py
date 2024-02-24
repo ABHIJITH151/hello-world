@@ -1,1 +1,11 @@
-git checkout <06dc508da379a4a8cba7368abe889bd45f07c301>
+import pandas
+import calculate
+
+print("hello world")
+print(calculate.x)
+print("bye bye")
+
+# debugger 
+x=20
+y=x*3
+z=x*y
