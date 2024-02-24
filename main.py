@@ -1,4 +1,4 @@
-import pandas
+impo
 import calculate
 
 print("hello world")
@@ -9,3 +9,5 @@ print("bye bye")
 x=20
 y=x*3
 z=x*y
+u=x+y+z
+print(z)
