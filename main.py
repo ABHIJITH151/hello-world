@@ -4,3 +4,4 @@ import calculate
 print("hello world")
 print(calculate.x)
 print("bye bye")
+print('o')
